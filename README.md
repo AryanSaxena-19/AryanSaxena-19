@@ -21,7 +21,7 @@
  </div>
  
 <div align="center"> 
-  <a href="https:///www.gmail.com/in/aryansaxena224@gmail.com">
+  <a href="mailto:aryansaxena224@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/aryan-saxena-aaa19uchiha/" target="_blank">
@@ -44,7 +44,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AryanSaxena-19/AryanSaxena-19/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
