@@ -27,6 +27,8 @@
   <a href="https://www.linkedin.com/in/aryan-saxena-aaa19uchiha/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
+    <a href="https://www.instagram.com/_aryyyyann_/">
+        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
 </div>
 
  <hr/>
@@ -67,7 +69,7 @@
 <br/>
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌;+Dm+me+on+Linkedin!;I'm+always+ready+contribute+☺">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌;+Dm+me+on+Linkedin!;I'm+always+ready+contribute+☺;+DM+me+on+Instagram">
 
     
 </h3>
