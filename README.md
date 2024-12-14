@@ -10,13 +10,12 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a E-Commerce Site**
+ 🔭 I’m currently working on **Grooveum a music streaming app**
  
- 🌱 I’m currently learning **Salesforce Triggers, JSP**
+ 🌱 I’m currently learning **Salesforce AI**
 
 💬 Ask me about **Salesforce, Java**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
  </div>
  
